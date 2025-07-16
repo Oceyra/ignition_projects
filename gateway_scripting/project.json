@@ -1,0 +1,7 @@
+{
+  "title": "Gateway Scripting Project",
+  "description": "Project that contains gateway-scoped scripts with no project affiliation can access user script libraries in.",
+  "parent": "common",
+  "enabled": true,
+  "inheritable": false
+}
