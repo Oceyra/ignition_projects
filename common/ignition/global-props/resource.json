@@ -1,0 +1,16 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "data.bin"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "pier-luc",
+      "timestamp": "2025-07-15T12:22:24Z"
+    },
+    "lastModificationSignature": "bbcd8209de90d5e7a2c7a77093915370c68c0e94f0890038d7a1c1dcabcaacf1"
+  }
+}
